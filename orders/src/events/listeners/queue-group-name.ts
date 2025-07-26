@@ -1,0 +1,1 @@
+export const queueGroupName = "orders-service"; // unique identifier for the queue group
